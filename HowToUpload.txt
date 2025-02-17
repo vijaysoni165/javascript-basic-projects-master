@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "Javascript Learning"
+git remote add origin git@github.com:vijaysoni165/javascript-basic-projects-master.git
+git push -u origin master
+rm -rf .git (Remove from current github setting)
+==============================================
+git clone git@github.com:vijaysoni165/javascript-basic-projects-master.git
+git --all
+git commit -m ""Intial Project
+git push -u origin main
